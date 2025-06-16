@@ -1,0 +1,2 @@
+BCA-Project
+This project is used to develop CRUD RESTFul APIs for a simple Employee Management System using Spring Boot, JPA, and MySQL as a database. This project is used to develop single page application using Angular 12 as front-end technology. This Angular application consumes CRUD Restful APIs developed and exposed by a springboot-backend project.
